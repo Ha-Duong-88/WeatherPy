@@ -18,5 +18,18 @@ The objective of the project was to enhance the existing PlanMyTrip app to provi
 # Summary 
 The following illustrates an example of a travel itinerary based on the search criteria for weather conditions entered by travelers. 
 
+## Weather Condition Search Parameters
+What is the minimum temperature you would like for your trip? 70
+What is the maximum temperature you would like for your trip? 90
 
+## Results of Search Criteria
+
+![image](https://user-images.githubusercontent.com/80140082/116012545-e8fb3780-a5df-11eb-8bde-cda1be5ac692.png)
+
+
+<img width="1273" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/80140082/116012391-0da2df80-a5df-11eb-88e3-3368cbed85f1.png">
+
+<img width="827" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/80140082/116012401-198ea180-a5df-11eb-943f-e60a98675211.png">
+
+<img width="752" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/80140082/116012409-227f7300-a5df-11eb-8e92-a8d9185d5d0d.png">
 
