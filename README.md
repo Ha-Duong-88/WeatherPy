@@ -19,8 +19,8 @@ The objective of the project was to enhance the existing PlanMyTrip app to provi
 The following illustrates an example of a travel itinerary based on the search criteria for weather conditions entered by travelers. 
 
 ## Weather Condition Search Parameters
-What is the minimum temperature you would like for your trip? 70
-What is the maximum temperature you would like for your trip? 90
+   ### What is the minimum temperature you would like for your trip? 70
+   ### What is the maximum temperature you would like for your trip? 90
 
 ## Results of Search Criteria
 
